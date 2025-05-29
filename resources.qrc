@@ -1,0 +1,12 @@
+
+
+<RCC>
+  <qresource prefix="/">
+    <file>close_icon_off.png</file>
+    <file>close_icon_on.png</file>
+    <file>restore_icon.png</file>
+    <file>perilla_favicon.png</file>
+    <file>perilla_favicon2.png</file>
+    <file>pill.png</file>
+  </qresource>
+</RCC>
