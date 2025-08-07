@@ -18,6 +18,13 @@
 
 https://www.youtube.com/watch?v=R5k2Ha_tWB8
 
+
+<img width="970" height="792" alt="image" src="https://github.com/user-attachments/assets/efd9fbd8-4af9-43fd-b25a-9279d07a789d" />
+
+<img width="812" height="717" alt="image" src="https://github.com/user-attachments/assets/2ce6cfee-784b-4d45-ba11-25b081187697" />
+
+
+
 ---
 ## 📸 소개
 
